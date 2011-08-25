@@ -1,7 +1,7 @@
 .DS_Store
 material/
 node_modules/
-lib/*.js
+.project
 benchmarks/out/*.dat
 benchmarks/out/*.out
 tests/*.js
